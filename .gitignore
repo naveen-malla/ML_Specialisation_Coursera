@@ -1,0 +1,31 @@
+# Ignore editor and IDE files
+.vscode/
+.idea/
+
+# Ignore build output
+build/
+dist/
+*.exe
+*.dll
+*.so
+
+# Ignore dependencies
+node_modules/
+vendor/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore configuration files
+config.ini
+config.json
+
+# Ignore sensitive information
+secrets.txt
+credentials.json
