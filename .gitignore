@@ -29,3 +29,5 @@ config.json
 # Ignore sensitive information
 secrets.txt
 credentials.json
+
+__pycache__/
